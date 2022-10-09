@@ -9,7 +9,7 @@
 - 👨‍💻 I love building responsive and interactive websites that makes an impact
 - 📚 I’m currently learning **three.js**
 - 🤝 I'd love to collaborate on **open source projects**
-- 🔎 Find more about me and my projects at **[abirana.com](abirana.com)**
+- 🔎 Find more about me and my projects at **[abirana.com](https://abirana.com/)**
 - 📫 You can reach me at **info@abirana.com**
 
 <h3 align="left">Connect with me:</h3>
